@@ -26,3 +26,4 @@ NOTES
 - The guide cards are launch placeholders marked Coming soon; publish real articles before promoting them.
 - Google Fonts are loaded externally. If you prefer no third-party font requests, remove the Google Fonts links from index.html; the site will fall back to sans-serif fonts.
 - This package does not configure your Cloudflare account or change DNS automatically.
+GitHub integration successfully connected to Cloudflare Pages.
